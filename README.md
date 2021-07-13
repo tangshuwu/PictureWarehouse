@@ -1,2 +1,2 @@
 # PictureWarehouse
-www.tangshuwu.com图床
+www.tangshuwu.com 图床
